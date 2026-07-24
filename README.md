@@ -1,4 +1,4 @@
-# 🪽 Mercury
+# 🪽 Mercury Go
 
 Automates `git fetch → pull → add → commit → push` with a styled CLI.
 
