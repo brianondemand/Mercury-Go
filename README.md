@@ -2,9 +2,7 @@
 
 Automates `git fetch → pull → add → commit → push` with a styled CLI.
 
-![Mercury screenshot](docs/screenshot.png)
-
-*(Add your own screenshot: create a `docs/` folder in your repo, drop an image in as `screenshot.png`, and it'll show up above.)*
+![Mercury screenshot](/banner.png)
 
 ## What it does
 
